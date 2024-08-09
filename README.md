@@ -1,2 +1,2 @@
 # TODO-list
-Simple TODO-List APP
+Simple TODO-List Application using html,css and javascript
